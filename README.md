@@ -40,6 +40,8 @@ I like to develop projects in my spare time around different subjects such as 3D
 - [LinkedIn](https://www.linkedin.com/in/nicolas-jacob-peres-a7ba75196/)
 - [My portfolio](https://nicolasjp.github.io/Portfolio/)
 
+
+## 📈 GitHub Stats
 <a href="https://github.com/nicolasjp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3" />
 </a>

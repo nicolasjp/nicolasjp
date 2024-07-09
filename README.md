@@ -23,8 +23,8 @@ I like to develop projects in my spare time around different subjects such as 3D
     - [DoodleMe - Back](https://github.com/Shannorr/Back-DoodleMe) : Back of a website based on the functionalities of the Doodle application with [@Théo](https://github.com/Shannorr)
 
 
-## 🛠️ Compétences
-- <span style="color: blue;">**Data analysis** </span>: Data pipelines, AI, Business Intelligence (Power BI), Qlik Sense, D3.js
+## 🛠️ Skills
+- **Data analysis** : Data pipelines, AI, Business Intelligence (Power BI), Qlik Sense, D3.js
 - **Big Data** : Hadoop, Analytical Methods for Big Data
 - **Database Management** : SQL, PL/SQL, NoSQL, Oracle SQL Developer, phpMyAdmin, MySQL, MongoDB, Neo4j
 - **Cybersecurity** : Access control and identity management (RBAC, Keycloak) & Risk and security management
@@ -32,10 +32,18 @@ I like to develop projects in my spare time around different subjects such as 3D
 - **Frameworks** : React, Angular, Flask
 - **IDE** : Visual Studio Code, WebStorm, IntelliJ IDEA, Eclipse
 - **3D** : Babylon.js, Blender
-- **Autres** : Git, GitHub, Docker
+- **Others** : Git, GitHub, Docker
 
 
 ## 📫 Contact me
 - [Email](mailto:nicolasjp05@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolas-jacob-peres-a7ba75196/)
 - [My portfolio](https://nicolasjp.github.io/Portfolio/)
+
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasjp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>

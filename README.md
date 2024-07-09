@@ -49,3 +49,18 @@ I like to develop projects in my spare time around different subjects such as 3D
 <a href="https://github.com/nicolasjp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasjp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicolasjp&theme=darkhub" />
+</a>
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjp&theme=dark" />
+</a>
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nicolasjp&theme=github&bg_color=1d1f21&color=2bbc8a&line=2bbc8a&point=ffffff&area=true" />
+</a>
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://metrics.lecoq.io/nicolasjp?template=classic&base.header=0&base.activity=0&base.repositories=0&config.timezone=America%2FNew_York" />
+</a>
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nicolasjp&layout=compact&theme=dark" />
+</a>

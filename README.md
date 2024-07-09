@@ -24,7 +24,7 @@ I like to develop projects in my spare time around different subjects such as 3D
 
 
 ## 🛠️ Compétences
--<span style="color: blue;">**Data analysis** </span>: Data pipelines, AI, Business Intelligence (Power BI), Qlik Sense, D3.js
+- <span style="color: blue;">**Data analysis** </span>: Data pipelines, AI, Business Intelligence (Power BI), Qlik Sense, D3.js
 - **Big Data** : Hadoop, Analytical Methods for Big Data
 - **Database Management** : SQL, PL/SQL, NoSQL, Oracle SQL Developer, phpMyAdmin, MySQL, MongoDB, Neo4j
 - **Cybersecurity** : Access control and identity management (RBAC, Keycloak) & Risk and security management

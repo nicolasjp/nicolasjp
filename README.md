@@ -7,8 +7,8 @@ I like to develop projects in my spare time around different subjects such as 3D
 ## 🚀 My projects
 - **3D :**
     - [Golden Legends](https://github.com/Golden-Legends) : A 3D video game with 2 friends [@Théo](https://github.com/Shannorr) and [@Rémi](https://github.com/RemiSaurel) for the Games on Web 2024 competition 🥇
-    - [My portfolio](https://nicolasjp.github.io/Portfolio/#/) : Portfolio to present myself professionally
-    - [TCP Teamwear Studio](https://nicolasjp.github.io/TCP-Teamwear-Studio/) : 3D customisation tool for T-shirts and hoodies for my tennis club
+    - [My portfolio](https://github.com/nicolasjp/Portfolio) : Portfolio to present myself professionally
+    - [TCP Teamwear Studio](https://github.com/nicolasjp/TCP-Teamwear-Studio) : 3D customisation tool for T-shirts and hoodies for my tennis club
     - [Daily Green](https://github.com/Shannorr/games-on-web-2023/tree/0.0.1) : A 3D video game with [@Théo](https://github.com/Shannorr) and Nassim for the Games on Web 2023 competition 🥉
 
 - **Blockchain :**

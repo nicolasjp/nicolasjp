@@ -50,11 +50,11 @@ I like to develop projects in my spare time around different subjects such as 3D
 </p>
 
 <a href="https://github.com/nicolasjp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasjp&show_icons=true&theme=tokyonight" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/nicolasjp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasjp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&show_icons=true&theme=tokyonight&langs_count=3" />
 </a>
 
 ## 🏆 GitHub Awards

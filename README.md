@@ -45,7 +45,7 @@ I like to develop projects in my spare time around different subjects such as 3D
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasjp&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&show_icons=true&theme=tokyonight&langs_count=3" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjp&theme=tokyonight" alt="GitHub Streak">
 </p>
 

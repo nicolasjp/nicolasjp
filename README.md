@@ -56,9 +56,14 @@ I like to develop projects in my spare time around different subjects such as 3D
 <a href="https://github.com/nicolasjp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&show_icons=true&theme=tokyonight&langs_count=3" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/nicolasjp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjp&theme=tokyonight" />
+</a>
+
 
 ## 🏆 GitHub Awards
 
 <a href="https://github.com/nicolasjp">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicolasjp&theme=darkhub" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicolasjp&theme=tokyonight" />
 </a>

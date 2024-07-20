@@ -50,7 +50,7 @@ I like to develop projects in my spare time around different subjects such as 3D
 <a href="https://github.com/nicolasjp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjp&show_icons=true&theme=tokyonight&langs_count=3" />
 </a>
-
+<br>
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjp&theme=tokyonight" />
 </p>

@@ -7,7 +7,7 @@ I like to develop projects in my spare time around different subjects such as 3D
 ## 🚀 My projects
 - **3D :**
     - [Golden Legends](https://github.com/Golden-Legends) : A 3D video game with 2 friends [@Théo](https://github.com/Shannorr) and [@Rémi](https://github.com/RemiSaurel) for the Games on Web 2024 competition 🥇
-    - [My portfolio](https://github.com/nicolasjp/Portfolio) : Portfolio to present myself professionally
+    - [Old portfolio](https://github.com/nicolasjp/Portfolio) : Portfolio to present myself professionally
     - [TCP Teamwear Studio](https://github.com/nicolasjp/TCP-Teamwear-Studio) : 3D customisation tool for T-shirts and hoodies for my tennis club
     - [Daily Green](https://github.com/Shannorr/games-on-web-2023/tree/0.0.1) : A 3D video game with [@Théo](https://github.com/Shannorr) and Nassim for the Games on Web 2023 competition 🥉
 
@@ -18,6 +18,7 @@ I like to develop projects in my spare time around different subjects such as 3D
     - [Keycloak](https://github.com/nicolasjp/keycloakProject) : Prototype using Keycloak (for access management) to manage grades at a university
 
 - **Others :**
+    - [My portfolio 2.0](https://portfolio2-0-nicolasjps-projects.vercel.app/) : Portfolio to present myself professionally, new version
     - [MiageLand](https://github.com/Shannorr/m1-miageland-spring-boot) : Prototype of a website simulating the management of an amusement park with [@Théo](https://github.com/Shannorr)
     - [DoodleMe - Front](https://github.com/Shannorr/Front-DoodleMe) : Front of a website based on the functionalities of the Doodle application with [@Théo](https://github.com/Shannorr)
     - [DoodleMe - Back](https://github.com/Shannorr/Back-DoodleMe) : Back of a website based on the functionalities of the Doodle application with [@Théo](https://github.com/Shannorr)
@@ -38,7 +39,7 @@ I like to develop projects in my spare time around different subjects such as 3D
 ## 📫 Contact me
 - [Email](mailto:nicolasjp05@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolas-jacob-peres-a7ba75196/)
-- [My portfolio](https://nicolasjp.github.io/Portfolio/)
+- [My portfolio](https://portfolio2-0-nicolasjps-projects.vercel.app/)
 
 
 ## 🌟 My GitHub statistics
